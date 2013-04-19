@@ -2,8 +2,8 @@
 //
 //////////////////////////////////////////////////////////////////////
 
-#include "Precompile.h"
-#include "XMLWriter.h"
+#include "precompile.h"
+#include "xmlwriter.h"
 //#include "xmlutils.h"
 #ifdef XML_BINARY
 #include "base64coder.h"

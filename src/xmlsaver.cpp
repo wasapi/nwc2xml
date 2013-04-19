@@ -2,9 +2,9 @@
 //
 //////////////////////////////////////////////////////////////////////
 
-#include "Precompile.h"
-#include "XMLSaver.h"
-#include "XMLWriter.h"
+#include "precompile.h"
+#include "xmlsaver.h"
+#include "xmlwriter.h"
 #include <math.h>
 #include "wx/filename.h"
 #include "wx/datetime.h"

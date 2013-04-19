@@ -1,7 +1,7 @@
 // nwcfile.cpp : Defines the entry point for the console application.
 //
 
-#include "Precompile.h"
+#include "precompile.h"
 #include "nwcfile.h"
 #include "wx/wfstream.h"
 #include "wx/mstream.h"

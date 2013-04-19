@@ -1,9 +1,9 @@
 // nwc2xml.cpp : Defines the entry point for the console application.
 //
 
-#include "Precompile.h"
+#include "precompile.h"
 #include "nwcfile.h"
-#include "XMLSaver.h"
+#include "xmlsaver.h"
 #include "wx/cmdline.h"
 #include "nwc2xml-version.h"
 

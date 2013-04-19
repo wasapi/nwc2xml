@@ -1,7 +1,7 @@
 // nwcobj.cpp : Defines the classes for NWC objects.
 //
 
-#include "Precompile.h"
+#include "precompile.h"
 #include "nwcobj.h"
 #include "nwcfile.h"
 

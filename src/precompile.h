@@ -22,7 +22,7 @@
 #include "wx/wx.h"
 #include "wx/file.h"
 #include "wx/ffile.h"
-#include "TVector.h"
+#include "tvector.h"
 
 typedef TVector<unsigned char> TByteArray;
 
